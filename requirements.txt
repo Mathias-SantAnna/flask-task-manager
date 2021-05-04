@@ -1,5 +1,7 @@
 click==7.1.2
+dnspython==2.0.0
 Flask==1.1.2
--e git+https://github.com/gitpod-io/python-flask-example.git@215eb6a3855bb2deaad0b12c93a107dcb1d0c9e8#egg=flaskr
+Flask-PyMongo==2.3.0
 itsdangerous==1.1.0
+pymongo==3.11.0
 Werkzeug==1.0.1
