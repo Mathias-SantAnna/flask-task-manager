@@ -1,0 +1,5 @@
+click==7.1.2
+Flask==1.1.2
+-e git+https://github.com/gitpod-io/python-flask-example.git@215eb6a3855bb2deaad0b12c93a107dcb1d0c9e8#egg=flaskr
+itsdangerous==1.1.0
+Werkzeug==1.0.1
